@@ -42,8 +42,8 @@
         
     }
     #signup_button{
-        background-color:black ;
-        width: 70px;
+        background-color:darkblue ;
+        width: 100px;
         color: white;
         text-align: center;
         padding: 4px;
@@ -58,7 +58,16 @@
         padding: 10px;
         text-align: center;
         font-weight: bold;
-    } 
+    }
+    #bar3{
+        background-color: white;
+        width: 200px;
+        margin: left;
+        margin-top: -350px;
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
     #text{
         height:40px;
         width:300px;
@@ -114,5 +123,34 @@
                 <br><br>
             <form>
         </div>
+
+        <div id="bar3">
+
+            <form method="post">
+                <div style="font-size: 35px; color:red; font-style: italic;">Login details(HELP)</div>
+                <br>
+                <div style="font-size: 30px; color:darkred; font-style: italic;">Administrator</div>
+                <br>
+                <div style="font-size: 30px; color:black; font-style: italic;">Email:</div>
+                <div style="font-size: 15px; color:blue; font-style: bold;">Khanyile.x.za@gmail.com</div>
+                <div style="font-size: 30px; color:black; font-style: italic;">Password:</div>
+                <div style="font-size: 15px; color:blue; font-style: bold;">Mtho@Admin</div>
+                <br>
+                <div style="font-size: 30px; color:darkred; font-style: italic;">Driver</div>
+                <br>
+                <div style="font-size: 30px; color:black; font-style: italic;">Email:</div>
+                <div style="font-size: 15px; color:blue; font-style: bold;">DriverOne@gmail.com</div>
+                <div style="font-size: 30px; color:black; font-style: italic;">Password:</div>
+                <div style="font-size: 15px; color:blue; font-style: bold;">1234</div>
+                <br>
+                <div style="font-size: 30px; color:darkred; font-style: italic;">Customer</div>
+                <br>
+                <div style="font-size: 15px; color:blue; font-style: bold;">Create account(Sign Up)<p>then login(Sign In)</div>
+                <nav class="navbar">
+                    <a href="About.php">About Me & web app</a>
+                </nav>
+            <form>
+        </div>
+
     </body>
 </html>

@@ -155,7 +155,7 @@ include("classes/autoload.php");
                                 if(isset($_GET['action'])) {
                                     session_unset();
                                     session_destroy();
-                                    header("Location:login.php");
+                                    header("Location:Login.php");
                                 }
                                 include('index.php');
                                 ?>

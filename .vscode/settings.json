@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4aa278aa-e8e5-442b-9944-7e33d929f2e8/appservices/subscriptions/4aa278aa-e8e5-442b-9944-7e33d929f2e8/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/MthoFoodOrderPHP",
+    "appService.deploySubpath": "."
+}

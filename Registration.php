@@ -42,9 +42,9 @@
         
     }
     #Login_button{
-        background-color: black;
+        background-color: darkblue;
         color:white;
-        width: 70px;
+        width: 100px;
         text-align: center;
         padding: 4px;
         border-radius: 4px;
